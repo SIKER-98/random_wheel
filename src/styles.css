@@ -52,8 +52,8 @@ button {
 
 #selector {
     position: absolute;
-    top: 21vh;
-    right: 47.5vw;
+    top: 15vh;
+    right: 49vw;
     font-size: 40px;
     z-index: 3;
 }
@@ -68,3 +68,19 @@ input {
     border:none;
     border-bottom: 1px solid black
 }
+
+.inputy{
+    position: absolute;
+    left: 5vh;
+    top: 30vh;
+    color:white;
+    padding: 5px;
+}
+
+.inputbox{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
